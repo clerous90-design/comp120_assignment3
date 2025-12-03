@@ -1,2 +1,2 @@
-# comp120_assignment3
+# Final Project Group 7
 COMP120_versioncontrol
